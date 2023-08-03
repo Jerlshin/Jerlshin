@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi there, I'm Jerlshin!</h1>
 <p align="center">
   <a href="mailto:jerlshin.official008@gmail.com"><img src="https://img.shields.io/badge/Email-jerlshin.official008%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/jerlshin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jerlshin-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/jerlshin-j-g-743753281/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jerlshin-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
-
 <p align="center">I'm a passionate learner interested in implementing Machine Learning, NLP, Computer Vision, and Deep Learning.</p>
 
 - 🎓 Pursuing Bachelor of Technology in Computer Science and Engineering with Specialization in Artificial Intelligence and Robotics.
@@ -12,7 +11,7 @@
 
 - 📚 I'm interested in collaborating on research papers related to Machine Learning, NLP, and AI studies.
 
-- 🇩🇪 If you're interested in pursuing Higher Studies (MS) in Germany, I'd be happy to share my insights and experiences. Feel free to contact me!
+- If you're interested in pursuing Higher Studies (MS) in Germany, I'd be happy to share my insights and experiences. Feel free to contact me!
 
 <h2 align="center">🔭 Tech Stack</h2>
 <p align="center">
