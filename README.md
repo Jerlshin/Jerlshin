@@ -11,7 +11,7 @@
 
 - 📚 I'm interested in collaborating on research papers related to Machine Learning, NLP, and AI studies.
 
-- If you're interested in pursuing Higher Studies (MS) in Germany, I'd be happy to share my insights and experiences. Feel free to contact me!
+- Currently delving into the world of Computational Neuroscience.
 
 <h2 align="center">🔭 Tech Stack</h2>
 <p align="center">
@@ -20,12 +20,24 @@
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/-NLP-336791?style=flat-square" alt="NLP">
+  <img src="https://img.shields.io/badge/-spaCy-09a3d5?style=flat-square" alt="spaCy">
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square" alt="MATLAB">
+  <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square" alt="ROS">
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jerlshin&show_icons=true&count_private=true&hide=contribs,prs&theme=radical" alt="GitHub Stats">
-</p>
+⚡ Fun fact: I love to code.
+
+---
+| ![Jerlshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerlshin&show_icons=true&theme=radical) | [![Jerlshin's Stri](https://streak-stats.demolab.com?user=Jerlshin&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerlshin&layout=compact&&show_icons=true&theme=radical)](https://github.com/Jerlshin/github-readme-stats) |                                                              |
+
+
+
+[![Jerlshin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jerlshin&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/Jerlshin/github-readme-activity-graph)
+
+
 
 <!---
 Jerlshin/Jerlshin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
