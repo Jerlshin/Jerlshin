@@ -12,7 +12,7 @@
 - 📚 I'm interested in collaborating on research papers related to Machine Learning, NLP, and AI studies.
 
 - Currently delving into the world of Computational Neuroscience.
-
+  
 <h2 align="center">🔭 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -20,11 +20,12 @@
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/-NLP-336791?style=flat-square" alt="NLP">
+  <img src="https://img.shields.io/badge/-NLTK-4BA858?style=flat-square" alt="NLTK">
   <img src="https://img.shields.io/badge/-spaCy-09a3d5?style=flat-square" alt="spaCy">
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square" alt="MATLAB">
   <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square" alt="ROS">
 </p>
+
 
 ⚡ Fun fact: I love to code.
 
