@@ -12,19 +12,23 @@
 - 📚 I'm interested in collaborating on research papers related to Machine Learning, NLP, and AI studies.
 
 - Currently delving into the world of Computational Neuroscience.
+
   
-<h2 align="center">🔭 Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/-NLTK-4BA858?style=flat-square" alt="NLTK">
-  <img src="https://img.shields.io/badge/-spaCy-09a3d5?style=flat-square" alt="spaCy">
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square" alt="MATLAB">
-  <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square" alt="ROS">
-</p>
+  <div align="center">
+  <h2>🔭 Tech Stack</h2>
+  <p>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/-NLTK-4BA858?style=for-the-badge" alt="NLTK">
+    <img src="https://img.shields.io/badge/-spaCy-09a3d5?style=for-the-badge" alt="spaCy">
+    <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge" alt="MATLAB">
+    <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge" alt="ROS">
+  </p>
+</div>
+
 
 
 ⚡ Fun fact: I love to code.
