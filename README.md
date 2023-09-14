@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Jerlshin!</h1>
+<h1 align="center">👋 Hi there, I'm Jerlshin!</h1> <p>I love Deep Neural Nets</p>
 <p align="center">
   <a href="mailto:jerlshin.official008@gmail.com"><img src="https://img.shields.io/badge/Email-jerlshin.official008%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/jerlshin-j-g-743753281/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jerlshin-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
