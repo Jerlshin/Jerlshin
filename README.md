@@ -68,6 +68,9 @@
 <br/>
 <br/>
 
+You can reach out to me via email at [jerlshin.official008@gmail.com](mailto:jerlshin.official008@gmail.com).
+
+
   <h2>🔭 Tech Stack</h2>
   <div align="center">
 
