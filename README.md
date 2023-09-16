@@ -96,9 +96,10 @@ You can reach out to me via email at [jerlshin.official008@gmail.com](mailto:jer
 
 <p align="center">
   <a href="https://github.com/Jerlshin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerlshin&theme=radical&border=7F3FBF&background=0D1117" alt="Jerlshin's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerlshin&type=weeks&theme=radical&border=7F3FBF&background=0D1117" alt="Jerlshin's GitHub week streak"/>
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Jerlshin">
@@ -114,3 +115,4 @@ You can reach out to me via email at [jerlshin.official008@gmail.com](mailto:jer
 
 
 ![Jerlshin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerlshin&custom_title=J.G%20Jerlshin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
