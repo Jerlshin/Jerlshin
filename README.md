@@ -79,6 +79,8 @@ You can reach out to me via email at [jerlshin.official008@gmail.com](mailto:jer
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=000000)
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&labelColor=black&logo=mathworks&logoColor=0076A8)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&labelColor=black&logo=ros&logoColor=22314E)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=black)
+
 </div>
 <br/>
 
