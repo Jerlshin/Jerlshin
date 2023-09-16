@@ -12,17 +12,19 @@
         </samp>
 </h3>
 
+<span style="color:green;font-weight:bold;">
+  <p align="center"> 
+    <samp>
+      <a>「 I am in love with Deep Neural Nets 」</a>
+      <br>
+      <br>
+      「 I'm a passionate learner interested in implementing Machine Learning, NLP, Computer Vision, and Deep Learning 」
+      <br>
+      <br>
+    </samp>
+  </p>
+</span>
 
-<p align="center"> 
-  <samp>
-    <a style="color: green; font-weight: bold;">I am in love with Deep Neural Nets</a>
-    <br>
-    <br>
-    「 I'm a passionate learner interested in implementing Machine Learning, NLP, Computer Vision, and Deep Learning 」
-    <br>
-    <br>
-  </samp>
-</p>
 
 <p align="center">
   <!--- Website -->
