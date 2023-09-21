@@ -12,7 +12,7 @@
       <a>「 I am in love with Deep Neural Nets 」</a>
       <br>
       <br>
-      「 I'm a passionate learner interested in implementing Machine Learning, NLP, Computer Vision, and Deep Learning 」
+      「 I'm a passionate learner interested in implementing Machine Learning, NLP, Computer Vision, and Deep Learning models 」
       <br>
       <br>
     </samp>
@@ -32,11 +32,15 @@
  <!-- <a href="https://dev.to/Jerlshin" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Jerlshin" />
  </a> -->
+        <!--
  <a href="https://twitter.com/jerlshin" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
+        -->
+        <!--
  <a href="https://instagram.com/jerlshin_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Jerlshin" />
+         -->
  <!---
  </a> 
  <a href="https://facebook.com/Jerlshin.world" target="_blank">
