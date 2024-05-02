@@ -9,7 +9,7 @@
 <span style="color:green;font-weight:bold;">
   <p align="center"> 
     <samp>
-      <a>「 I am in love with Deep Neural Nets 」</a>
+      <a>「 I am in love with AI... can't wait for AGI 🦾 」</a>
       <br>
       <br>
       「 I'm a passionate learner interested in implementing Machine Learning, NLP, Computer Vision, and Deep Learning models 」
