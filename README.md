@@ -54,7 +54,6 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
 Passionate about exploring the realms of AI, I am driven by a strong motivation to contribute meaningfully to the open-source community and advance research in this dynamic field. 
 
