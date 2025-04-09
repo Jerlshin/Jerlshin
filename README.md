@@ -56,11 +56,11 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; I'm a B.Tech student majoring in Computer Science and Engineering with a focus on Artificial Intelligence and Robotics. <br/><br/>
- ❤️ &emsp; I'm open to collaborate on ML projects, especially on platforms like Kaggle and Omdena. I'm also enthusiastic about developing ML models for real-world applications.<br/><br/>
- 📄 &emsp; I'm interested in collaborating on research papers related to Machine Learning, NLP, and AI studies.<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Jerlshin/Jerlshin/issues) <br/><br/>
- 🧠 &emsp; Currently delving into the world of Computational Neuroscience. <br/><br/>
+  &emsp; I'm a B.Tech student majoring in Computer Science and Engineering with a focus on Artificial Intelligence and Robotics. <br/><br/>
+  &emsp; I'm open to collaborate on ML projects, especially on platforms like Kaggle and Omdena. I'm also enthusiastic about developing ML models for real-world applications.<br/><br/>
+  &emsp; I'm interested in collaborating on research papers related to Machine Learning, NLP, and AI studies.<br/><br/>
+  &emsp; Ask me about anything [here](https://github.com/Jerlshin/Jerlshin/issues) <br/><br/>
+  &emsp; Currently delving into the world of Computational Neuroscience. <br/><br/>
 </p>
 
 <br/>
