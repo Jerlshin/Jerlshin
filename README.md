@@ -56,11 +56,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-  &emsp; I'm a B.Tech student majoring in Computer Science and Engineering with a focus on Artificial Intelligence and Robotics. <br/><br/>
-  &emsp; I'm open to collaborate on ML projects, especially on platforms like Kaggle and Omdena. I'm also enthusiastic about developing ML models for real-world applications.<br/><br/>
-  &emsp; I'm interested in collaborating on research papers related to Machine Learning, NLP, and AI studies.<br/><br/>
-  &emsp; Ask me about anything [here](https://github.com/Jerlshin/Jerlshin/issues) <br/><br/>
-  &emsp; Currently delving into the world of Computational Neuroscience. <br/><br/>
+Passionate about exploring the realms of AI, I am driven by a strong motivation to contribute meaningfully to the open-source community and advance research in this dynamic field. 
+
+With a fervent commitment to pushing the boundaries of innovation, I aspire to create transformative solutions that harness the power of artificial intelligence. Let's connect and collaborate to shape the future of technology together.
+
 </p>
 
 <br/>
