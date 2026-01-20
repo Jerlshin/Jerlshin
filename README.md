@@ -22,7 +22,7 @@
 
 <p align="center">
   <!--- Website -->
- <a href="https://Jerlshin.com" target="blank">
+ <a href="https://jerlshin-profile.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Jerlshin" />
  </a>
   <!--- Linkedln -->
