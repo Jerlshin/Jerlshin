@@ -90,7 +90,7 @@ Passionate AI Engineer and researcher building at the intersection of **LLMs, Mu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jerlshin&theme=dark&background=0a0a0f&border=1e1e30&ring=7b6ef6&fire=a89cff&currStreakLabel=a89cff&sideLabels=888888&dates=555555&sideNums=cccccc&currStreakNum=ffffff" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Jerlshin&theme=dark" />
 
 <br/><br/>
 
