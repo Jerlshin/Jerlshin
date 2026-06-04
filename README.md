@@ -2,7 +2,7 @@
 <div align="center">
 
 ```
-// hello, world
+// For the love of Humanity
 ```
 
 # J.G. Jerlshin
@@ -22,12 +22,12 @@
 
 ## `> about`
 
-Passionate AI Engineer and researcher building at the intersection of **LLMs, multimodal learning**, and real-world AI systems. Published in **IEEE Access**. Collaborated with **NTU Singapore** and **University of Augsburg**. Currently pursuing my Master's in AI in **Germany**.
+Passionate AI Engineer and researcher building at the intersection of **LLMs, Multimodal Learning**, and real-world AI systems. Collaborated with **NTU Singapore** and **University of Augsburg**. Currently pursuing my Master's in AI in **Germany**.
 
-- 📄 **IEEE Access Publication** — Interpretable multi-task learning for skin lesion diagnosis · Jan 2026
-- 🏆 **Hackathon Winner** — GAVS Technologies · AI Healthcare Platform · 2024  
-- 🏛️ **Research @ NTU Singapore** — Multimodal physiological signal analysis · 73 participants
-- 🎖️ **Top 5 / 2500+ Teams** — BITS Pilani Open Challenge · Adaptive Learning AI Device
+- 🎖️ **Interests** — I build foundation models that accelerate human discovery.
+- 📄 **Publication** — IEEE Access, Scientific Reports, Elsevier
+- 🏆 **Hackathon Winner** — GAVS Technologies · TEXcelerate
+- 🏛️ **Research** — Multimodal physiological signal analysis · Gait analysis
 
 ---
 
