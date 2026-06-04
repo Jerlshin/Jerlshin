@@ -1,120 +1,110 @@
+<!-- Header -->
+<div align="center">
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt;> Hey There!, I am
-                <b><a target="_blank" href="https://Jerlshin.com">Jerlshin</a></b>
-        </samp>
-</h3>
+```
+// hello, world
+```
 
-<span style="color:green;font-weight:bold;">
-  <p align="center"> 
-    <samp>
-      <a>「 I am in love with AI... can't wait for AGI 🦾 」</a>
-      <br>
-      <br>
-      「 I'm a passionate learner interested in implementing Machine Learning, NLP, Computer Vision, and Deep Learning models 」
-      <br>
-      <br>
-    </samp>
-  </p>
-</span>
+# J.G. Jerlshin
 
+**AI Engineer · ML Researcher · MSc Artificial Intelligence @ FAU Erlangen-Nürnberg**
 
-<p align="center">
-  <!--- Website -->
- <a href="https://jerlshin-profile.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Jerlshin" />
- </a>
-  <!--- Linkedln -->
- <a href="https://linkedin.com/in/jerlshin-j-g-743753281/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jerlshin"/>
- </a>
- <!-- <a href="https://dev.to/Jerlshin" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Jerlshin" />
- </a> -->
-        <!--
- <a href="https://twitter.com/jerlshin" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
-        -->
-        <!--
- <a href="https://instagram.com/jerlshin_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Jerlshin" />
-         -->
- <!---
- </a> 
- <a href="https://facebook.com/Jerlshin.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Jerlshin"  />
-  </a>
-   -->
-</p>
-<br />
+*「 Building multimodal AI systems that matter 」*
 
-<!-- About Section -->
- # About me
- 
-<p>
-  
-Passionate about exploring the realms of AI, I am driven by a strong motivation to contribute meaningfully to the open-source community and advance research in this dynamic field. 
-
-With a fervent commitment to pushing the boundaries of innovation, I aspire to create transformative solutions that harness the power of artificial intelligence. Let's connect and collaborate to shape the future of technology together.
-
-</p>
-
-<br/>
-<br/>
-
-You can reach out to me via email at [jerlshin.official008@gmail.com](mailto:jerlshin.official008@gmail.com).
-
-
-  <h2>🔭 Tech Stack</h2>
-  <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=F7931E)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00AEFF?style=for-the-badge&labelColor=black)
-![NLP](https://img.shields.io/badge/NLP-00AEFF?style=for-the-badge&labelColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=000000)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&labelColor=black&logo=mathworks&logoColor=0076A8)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&labelColor=black&logo=ros&logoColor=22314E)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=white)](https://jerlshin-profile.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=5b9aff)](https://linkedin.com/in/jerlshin-j-g-743753281/)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=aaaaaa)](https://github.com/Jerlshin)
+[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ff6b6b)](mailto:jerlshin.official008@gmail.com)
 
 </div>
-<br/>
 
-## Contributions
-<p align="left">
-  <a href="https://github.com/Jerlshin?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+---
 
-<br/>
-<hr/>
-<br/>
+## `> about`
 
-<p align="center">
-  <a href="https://github.com/Jerlshin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerlshin&type=weeks&theme=radical&border=7F3FBF&background=0D1117" alt="Jerlshin's GitHub week streak"/>
-  </a>
-</p>
+Passionate AI Engineer and researcher building at the intersection of **LLMs, multimodal learning**, and real-world AI systems. Published in **IEEE Access**. Collaborated with **NTU Singapore** and **University of Augsburg**. Currently pursuing my Master's in AI in **Germany**.
 
+- 📄 **IEEE Access Publication** — Interpretable multi-task learning for skin lesion diagnosis · Jan 2026
+- 🏆 **Hackathon Winner** — GAVS Technologies · AI Healthcare Platform · 2024  
+- 🏛️ **Research @ NTU Singapore** — Multimodal physiological signal analysis · 73 participants
+- 🎖️ **Top 5 / 2500+ Teams** — BITS Pilani Open Challenge · Adaptive Learning AI Device
 
-<p align="center">
-  <a href="https://github.com/Jerlshin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jerlshin&theme=radical" alt="Jerlshin's GitHub Contribution"/>
-  </a>
-</p>
+---
 
-<a> 
-    <a href="https://github.com/Jerlshin"><img alt="Jerlshin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Jerlshin&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Jerlshin"><img alt="Jerlshin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Jerlshin&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+## `> tech stack`
 
+**Languages**
 
-![Jerlshin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerlshin&custom_title=J.G%20Jerlshin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=9d8ff5)
+![Java](https://img.shields.io/badge/Java-0a0a0f?style=flat-square&logo=openjdk&logoColor=9d8ff5)
+![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0f?style=flat-square&logo=mathworks&logoColor=9d8ff5)
+![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=flat-square&logo=mysql&logoColor=9d8ff5)
 
+**ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=flat-square&logo=pytorch&logoColor=3ec9a0)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=flat-square&logo=tensorflow&logoColor=3ec9a0)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=flat-square&logo=huggingface&logoColor=3ec9a0)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0a0f?style=flat-square&logo=scikit-learn&logoColor=3ec9a0)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0f?style=flat-square&logo=opencv&logoColor=3ec9a0)
+![MLflow](https://img.shields.io/badge/MLflow-0a0a0f?style=flat-square&logo=mlflow&logoColor=3ec9a0)
+
+**LLM & Agentic AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=flat-square&logo=langchain&logoColor=e8a838)
+![LangGraph](https://img.shields.io/badge/LangGraph-0a0a0f?style=flat-square&logo=langchain&logoColor=e8a838)
+![Neo4j](https://img.shields.io/badge/Neo4j-0a0a0f?style=flat-square&logo=neo4j&logoColor=e8a838)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0a0a0f?style=flat-square&logoColor=e8a838)
+![LoRA](https://img.shields.io/badge/LoRA_/_PEFT-0a0a0f?style=flat-square&logoColor=e8a838)
+
+**Cloud & MLOps**
+
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-0a0a0f?style=flat-square&logo=amazonaws&logoColor=5b9aff)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-0a0a0f?style=flat-square&logo=googlecloud&logoColor=5b9aff)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0a0a0f?style=flat-square&logo=microsoftazure&logoColor=5b9aff)
+![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=flat-square&logo=docker&logoColor=5b9aff)
+![Qdrant](https://img.shields.io/badge/Qdrant-0a0a0f?style=flat-square&logo=qdrant&logoColor=5b9aff)
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=flat-square&logo=git&logoColor=5b9aff)
+
+---
+
+## `> publication`
+
+> **Seeing the Skin Deeper: Interpretable Multi-Task Framework for Skin Lesion Diagnosis**  
+> *IEEE Access · January 2026 · [DOI: 10.1109/ACCESS.2026.3666126](https://doi.org/10.1109/ACCESS.2026.3666126)*
+>
+> Proposed an interpretable multi-task learning framework integrating Swin Transformers with Graph Attention Networks (GATs). Jointly performed lesion classification, clinical feature prediction, and colorimetric analysis. Achieved SOTA on PH2 dataset using GNNExplainer visualization.
+
+---
+
+## `> recognition`
+
+| Award | Competition | Year |
+|:------|:------------|:-----|
+| 🥇 **Winner** | GAVS Technologies Hackathon — AI Healthcare Communication Platform | 2024 |
+| 🎖 **Top 5 / 2500+** | BITS Pilani Open Challenge — Adaptive Learning & Communication Device | 2025 |
+
+---
+
+## `> github stats`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerlshin&theme=dark&background=0a0a0f&border=1e1e30&ring=7b6ef6&fire=a89cff&currStreakLabel=a89cff&sideLabels=888888&dates=555555&sideNums=cccccc&currStreakNum=ffffff" />
+
+<br/><br/>
+
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Jerlshin&show_icons=true&count_private=true&theme=react&border_color=1e1e30&bg_color=0e0e1a&title_color=a89cff&icon_color=7b6ef6&text_color=888888" height="180px"/>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Jerlshin&langs_count=6&layout=compact&theme=react&border_color=1e1e30&bg_color=0e0e1a&title_color=a89cff&icon_color=7b6ef6&text_color=888888" height="180px"/>
+
+<br/><br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerlshin&custom_title=contribution+activity&bg_color=0a0a0f&color=7b6ef6&line=7b6ef6&point=a89cff&area_color=1e1a3a&title_color=a89cff&area=true&hide_border=false&border_color=1e1e30)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>open to research collaborations & interesting AI problems · jerlshin.official008@gmail.com</sub>
+</div>
