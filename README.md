@@ -99,7 +99,7 @@ Passionate AI Engineer and researcher building at the intersection of **LLMs, Mu
 
 <br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerlshin&custom_title=contribution+activity&bg_color=0a0a0f&color=7b6ef6&line=7b6ef6&point=a89cff&area_color=1e1a3a&title_color=a89cff&area=true&hide_border=false&border_color=1e1e30)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerlshin&theme=react-dark&bg_color=0a0a0f&color=7b6ef6&line=7b6ef6&point=a89cff&area=true&hide_border=false&border_color=1e1e30&custom_title=contribution+activity)
 
 </div>
 
